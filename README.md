@@ -11,5 +11,8 @@ gra w chinczyka
 ## trzynastkowy
 
 program dodający liczby w systemie trzynastkowym, oraz przekształcanie na system dziesietny.
-Wszystko zrobione w klasach (cel cwiczenia
-)
+Wszystko zrobione w klasach (cel cwiczenia)
+
+## zespolone
+
+dodawanie liczb zespolonych - klasy
